@@ -87,7 +87,7 @@ main{
 
 .buttons{
     display: flex;
-    width: 520px;
+    width: 530px;
 
 }
 .btn button{
@@ -100,8 +100,9 @@ main{
     border: 2px solid rgba(0, 128, 255,0.8);
     outline: none;
     cursor: pointer;
+    transition: all 0.3s ease;
 }
 .btn button:hover{
-    outline-style: solid;
-    outline-width: 2px;
+    transform: scale(1.1);
+    transition: all 0.3s ease;
 }
