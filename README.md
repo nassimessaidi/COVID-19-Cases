@@ -7,7 +7,7 @@ This simple HTML/CSS page contains 6 boxes showing the cases renaming as below:
 - **`New Deaths`:** Daily deaths.
 - **`Total Cases`:** The total number of COVID cases since the start of the pandemic including the deaths and recovered people.
 - **`Total Recovered`:** The total number of Recovered people since the start of the pandemic.
-- **`Total Deaths`:**: The total number of Recovered people since the start of the pandemic.
+- **`Total Deaths`:** The total number of Recovered people since the start of the pandemic.
 
 ## Note
 This is just a simple test page made in a few minutes, Therefore it is not a responsive design. I made it just for testing a Python script on the deployment environment.
