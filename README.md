@@ -21,3 +21,6 @@ Emm:thinking:, well. C'mon :unamused: It's just a simple lines of code anyone ca
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
 
 * [Raleway](https://fonts.google.com/specimen/Raleway)
+
+## Image
+![Static Page](http://1.bp.blogspot.com/-LrKW8N4RGiQ/X4NLE7tk2uI/AAAAAAAAChU/FR7Xr71dKXgpF13D4T36ceO-g5uqm-dDgCK4BGAYYCw/s1600/img.png)
